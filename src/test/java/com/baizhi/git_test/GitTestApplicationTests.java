@@ -12,6 +12,7 @@ public class GitTestApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("打印一行");
+        System.out.println("github上添加的内容");
     }
 
 }
