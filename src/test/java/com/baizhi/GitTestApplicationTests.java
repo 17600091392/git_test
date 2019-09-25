@@ -17,6 +17,7 @@ public class GitTestApplicationTests {
         int a=100;
         System.out.println("员工2设置了一个变量");
         System.out.println("员工2 使用技能 打鼾 生命值恢复了");
+        System.out.println("员工2 醒了");
     }
 
 }
