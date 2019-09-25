@@ -19,6 +19,7 @@ public class GitTestApplicationTests {
         System.out.println("员工2 使用技能 打鼾 生命值恢复了");
         System.out.println("员工2 醒了");
         System.out.println("员工1 加入游戏");
+        System.out.println("员工1 退出了房间");
     }
 
 }
